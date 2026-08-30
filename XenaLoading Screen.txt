@@ -529,7 +529,7 @@ do
 	local RightShift = KeyCode.RightShift
 
 	t1[23] = CreateWindow(v158, {
-		Title = "Metan Hub v15",
+		Title = "Revenge Hub v15",
 		SubTitle = "MM2",
 		TabWidth = v159,
 		Size = v157,
@@ -6523,7 +6523,7 @@ t1[90](_G.AntiAfkEnabled)
 togglePrankBombKeybind(_G.PrankBombKey)
 t1[23]:SelectTab(1)
 task.delay(1, function()
-	local s234 = "Metan Hub v15"
+	local s234 = "Revenge Hub v15"
 	local s235 = "Autofarm for new event"
 	local s236 = "Success"
 	local s237 = "home"
